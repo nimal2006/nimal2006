@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nimal!
 
-<!--
-**nimal2006/nimal2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science @ MKCE  
+💻 Full Stack Developer | Python | Java | MERN Stack  
+🌱 Currently learning Japanese & mastering DSA  
+🚀 Passionate about coding, editing, and building impactful projects
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 Languages: Python, Java, C++, JavaScript  
+- 🌐 Web Dev: HTML, CSS, React, Node.js, MongoDB  
+- ⚙️ Tools: Git, VS Code, Postman, Figma, Canva  
+- 🧠 AI & DS: NumPy, Pandas, Scikit-Learn, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Nimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimal2006&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimal2006&layout=compact&theme=radical)
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/nimal2006)
+- 📧 Email: mnimal2006@gmail.com
