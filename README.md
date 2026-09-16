@@ -8,7 +8,7 @@
 ---
 
 ### 💡 About Me:
-- 🎓 2nd Year B.Tech in **AI & Data Science** @ MKCE  
+- 🎓 3rd Year B.Tech in **AI & Data Science** @ MKCE  
 - 💻 Learning **Full Stack Development** (MERN)  
 - 🧠 Skilled in **Python, Java, C++, JavaScript**  
 - 🖌️ Passion for **Editing, UI Design & Animations**  
